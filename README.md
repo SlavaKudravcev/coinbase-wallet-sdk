@@ -133,3 +133,6 @@
   1. Fork this repo and clone it
   1. From the root dir run `yarn install`
   1. From the root dir run `yarn dev`
+  
+## Contributing
+Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines on reporting issues, proposing changes, and submitting pull requests.
