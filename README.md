@@ -1,4 +1,7 @@
 # Coinbase Wallet SDK
+> **Fork notice:** This repository is a fork of `coinbase/coinbase-wallet-sdk`.
+> For official documentation, see Coinbase Wallet SDK docs: https://docs.cdp.coinbase.com/coinbase-wallet/coinbase-wallet-sdk/
+> Upstream repository: https://github.com/coinbase/coinbase-wallet-sdk
 
 [![npm](https://img.shields.io/npm/v/@coinbase/wallet-sdk.svg)](https://www.npmjs.com/package/@coinbase/wallet-sdk)
 
